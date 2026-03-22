@@ -31,7 +31,7 @@
 - [✅ ] **2.2** — Clasificador de notas
 - [✅ ] **2.3** — Validador de acceso con and/or
 - [✅ ] **2.4** — Calculadora con if/elif
-- [ ] **2.5** — Clasificador de triángulo
+- [✅ ] **2.5** — Clasificador de triángulo
 
 ---
 
