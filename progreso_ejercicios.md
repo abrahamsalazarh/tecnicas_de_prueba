@@ -37,7 +37,7 @@
 
 ## TEMA 3 — Funciones + Type Hints
 
-- [ ] **3.1** — Función saludar
+- [✅ ] **3.1** — Función saludar
 - [ ] **3.2** — Conversor de temperatura
 - [ ] **3.3** — Calcular descuento
 - [ ] **3.4** — Generador de ID con separador
