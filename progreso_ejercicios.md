@@ -49,7 +49,7 @@
 
 - [✅ ] **4.1** — Tabla de multiplicar con for
 - [✅ ] **4.2** — Cuenta regresiva con while
-- [ ] **4.3** — FizzBuzz
+- [✅ ] **4.3** — FizzBuzz
 - [ ] **4.4** — Adivina el número
 - [ ] **4.5** — Factorial con while y for
 
